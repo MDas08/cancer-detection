@@ -1,10 +1,7 @@
 import React from 'react'
 import cancerInformation from './info'
 /*
-    There will be 5 graphs in total, for each graph we will provide a small writeup to explain it.
-    For Adil :  add a section in the beginning explaining what breast cancer is and using our 
-                dataset how we have trained the model and on what column.
-    
+    There will be 5 graphs in total, for each graph we will provide a small writeup to explain it.    
 */
 const Visual = () => {
     return (
